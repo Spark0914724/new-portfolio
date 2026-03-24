@@ -37,9 +37,9 @@ export const SimpleFooter = () => {
             {/* Brand Section */}
             <div className="text-center lg:text-left">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-amber-400 bg-clip-text text-transparent mb-2">
-                Kirk Henrich C. Gamo
+                Jennifer Hill
               </h3>
-              <p className="text-gray-600 dark:text-gray-400">Software Engineer & AI Enthusiast</p>
+              <p className="text-gray-600 dark:text-gray-400">Senior Full Stack Developer</p>
             </div>
 
             {/* Quick Navigation */}
@@ -104,11 +104,11 @@ export const SimpleFooter = () => {
               </div>
               
               <a
-                href="mailto:gamo.kirkhenrich2005@gmail.com"
+                href="mailto:jennifer0914H@gmail.com"
                 className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-500/20 dark:to-purple-500/20 hover:from-blue-500 hover:to-purple-600 text-gray-700 dark:text-white/80 hover:text-white rounded-lg transition-all duration-300 hover:scale-105 border border-blue-300 dark:border-blue-500/30 hover:border-transparent"
               >
                 <Mail className="w-4 h-4" />
-                <span className="text-sm">gamo.kirkhenrich2005@gmail.com</span>
+                <span className="text-sm">jennifer0914H@gmail.com</span>
               </a>
             </div>
           </div>
@@ -118,13 +118,13 @@ export const SimpleFooter = () => {
         <div className="border-t border-gray-300 dark:border-gray-700/50 py-6">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="flex flex-col sm:flex-row items-center gap-3 text-gray-600 dark:text-gray-400 text-sm">
-              <span>&copy; {currentYear} Kirk Henrich C. Gamo</span>
-              <span className="hidden sm:block">•</span>
+              <span>&copy; {currentYear} Jennifer Hill</span>
+              {/* <span className="hidden sm:block">•</span>
               <div className="flex items-center gap-1">
                 <span>Made with</span>
                 <Heart className="w-4 h-4 text-red-500 fill-current animate-pulse" />
                 <span>in the Philippines</span>
-              </div>
+              </div> */}
             </div>
 
             <button
