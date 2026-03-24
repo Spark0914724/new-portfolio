@@ -29,7 +29,7 @@ export default function Icon() {
           fontFamily: 'system-ui',
         }}
       >
-        KG
+        JH
       </div>
     ),
     // ImageResponse options

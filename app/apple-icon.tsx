@@ -30,7 +30,7 @@ export default function AppleIcon() {
           borderRadius: '20px',
         }}
       >
-        KG
+        JH
       </div>
     ),
     // ImageResponse options
