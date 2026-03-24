@@ -132,7 +132,7 @@ export default function Home() {
                 </div>
                 
                 {/* Social Media Links */}
-                <div className="flex justify-center lg:justify-start gap-4">
+                {/* <div className="flex justify-center lg:justify-start gap-4">
                   <a
                     href="https://www.linkedin.com/in/kirkgamo/"
                     target="_blank"
@@ -172,7 +172,7 @@ export default function Home() {
                   >
                     <XIcon size={20} />
                   </a>
-                </div>
+                </div> */}
               </div>
               
               {/* Additional spacing for better design balance */}
