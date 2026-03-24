@@ -25,12 +25,12 @@ export const viewport = {
 }
 
 export const metadata = {
-  title: 'Kirk Henrich C. Gamo - Software Engineer',
-  description: 'Portfolio website of Kirk Henrich C. Gamo, a passionate Software Engineer specializing in AI and web development.',
-  keywords: 'Kirk Gamo, Software Engineer, AI Developer, Web Developer, Computer Science, Philippines, WVSU',
-  authors: [{ name: 'Kirk Henrich C. Gamo' }],
-  creator: 'Kirk Henrich C. Gamo',
-  publisher: 'Kirk Henrich C. Gamo',
+  title: 'Jennifer Hill - Senior Full Stack Developer',
+  description: 'Portfolio website of Jennifer Hill, a passionate Senior Full Stack Developer specializing in AI and web development.',
+  keywords: 'Jennifer, Senior Full Stack Developer, AI Developer, Web Developer, Computer Science, Philippines, WVSU',
+  authors: [{ name: 'Jennifer Hill' }],
+  creator: 'Jennifer Hill',
+  publisher: 'Jennifer Hill',
   robots: 'index, follow',
   icons: {
     icon: '/icon',
@@ -40,14 +40,14 @@ export const metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://kirkgamo.dev',
-    title: 'Kirk Henrich C. Gamo - Software Engineer',
-    description: 'Portfolio website of Kirk Henrich C. Gamo, a passionate Software Engineer specializing in AI and web development.',
-    siteName: 'Kirk Gamo Portfolio',
+    title: 'Jennifer Hill - Senior Full Stack Developer',
+    description: 'Portfolio website of Jennifer Hill, a passionate Senior Full Stack Developer specializing in AI and web development.',
+    siteName: 'Jennifer Portfolio',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Kirk Henrich C. Gamo - Software Engineer',
-    description: 'Portfolio website of Kirk Henrich C. Gamo, a passionate Software Engineer specializing in AI and web development.',
+    title: 'Jennifer Hill - Senior Full Stack Developer',
+    description: 'Portfolio website of Jennifer Hill, a passionate Senior Full Stack Developer specializing in AI and web development.',
     creator: '@KXAZTHRA1',
   },
 
